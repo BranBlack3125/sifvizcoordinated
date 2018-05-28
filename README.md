@@ -1,6 +1,6 @@
 # sifvizcoordinated
 
-This page is a ***rough draft*** of the SIFVIZ geovizualization aimed at displaying the Solar Induced Chrlorphyll Fluorescence **(SIF)**. 
+This page is a ***rough draft*** of the SIFVIZ multi-coordinated geovizualization aimed at displaying the Solar Induced Chrlorphyll Fluorescence **(SIF)**. 
 
 Currently, it highlights an interactive map that permits the selection of monitoring sites with higher-vs.-lower SIF values. Additionally, it displays a series of charts conveying monthly and daily SIF values throughout the continental US, either from 2007 - 2017, or frim 2007 - 2010 subsets.
 
