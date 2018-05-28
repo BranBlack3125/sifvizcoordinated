@@ -6,4 +6,6 @@ Currently, it highlights an interactive map that permits the selection of monito
 
 Unsurprisingly, higher SIF responses were recorded most typically in spring months vs. winter. Certain areas of the high plains have consistently higher SIF values than monitoring sites throughout the US.
 
+**Important note:** page may need to be refreshed or reloaded to view data within top two charts.
+
 **Improvements to be made:** ensure objects (charts) do not overwrite each other on monitors of varying sizes (was created on a 17" monitor), find bug preventing time slider from working, pursue greater variety in chart type.
